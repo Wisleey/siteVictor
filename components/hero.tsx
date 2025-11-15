@@ -20,7 +20,7 @@ export default function Hero() {
       </div>
 
       {/* Content */}
-      <div className="relative z-10 container mx-auto px-4 text-center py-8">
+      <div className="relative z-10 container mx-auto px-4 text-center pt-32 pb-8 md:py-8">
         <div className="max-w-4xl mx-auto space-y-4">
           <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-white text-balance leading-tight">
             Explore a Paraíba com
@@ -29,7 +29,7 @@ export default function Hero() {
             </span>
           </h1>
           <p className="text-sm md:text-base text-white/90 max-w-4xl mx-auto text-pretty leading-relaxed">
-            Viajar é mais do que conhecer novos lugares — é uma experiência que
+            Viajar é mais do que conhecer novos lugares, é uma experiência que
             transforma, inspira e renova. Cada destino traz histórias, culturas
             e paisagens que ampliam nossa visão de mundo e nos conectam com o
             que há de mais genuíno na vida. Em meio à rotina acelerada, viajar
