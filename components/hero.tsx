@@ -22,7 +22,7 @@ export default function Hero() {
       {/* Content */}
       <div className="relative z-10 container mx-auto px-4 text-center pt-32 pb-8 md:py-8">
         <div className="max-w-4xl mx-auto space-y-4">
-          <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-white text-balance leading-tight">
+          <h1 className="text-4xl md:text-5xl lg:text-5xl font-bold text-white text-balance leading-tight">
             Explore a Paraíba com
             <span className="block bg-gradient-to-r from-accent via-primary to-secondary bg-clip-text text-transparent">
               Experiências Exclusivas
