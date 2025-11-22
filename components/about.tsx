@@ -60,9 +60,11 @@ export default function About() {
               conexão com os destinos paraibanos, Victor Hugo personaliza cada
               roteiro com sensibilidade e conhecimento local — revelando
               segredos, curiosidades e os cenários mais encantadores da nossa
-              terra. Sua missão é simples e verdadeira: fazer você viver a
-              Paraíba com emoção, segurança e a originalidade de quem ama este
-              lugar.
+              terra. Sua missão é simples e verdadeira:{" "}
+              <strong>
+                Fazer você viver a Paraíba com emoção, segurança e a
+                originalidade de quem ama este lugar.
+              </strong>
             </p>
 
             {/* Stats */}
