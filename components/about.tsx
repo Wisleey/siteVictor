@@ -15,7 +15,7 @@ export default function About() {
           <div className="relative">
             <div className="glass-card rounded-3xl overflow-hidden shadow-2xl hover-lift">
               <img
-                src="/vict.jpg"
+                src="/vi.jpg"
                 alt="Victor Hugo - Guia de Turismo"
                 className="w-full h-[500px] object-cover"
               />
@@ -47,15 +47,22 @@ export default function About() {
             </div>
 
             <p className="text-lg leading-relaxed text-muted-foreground text-pretty">
-              Formando do curso de Guia de Turismo, especialista em experiências
-              personalizadas pela Paraíba. Apaixonado por história, natureza e
-              cultura nordestina.
+              Victor Hugo é guia de turismo em formação, dedicado a oferecer
+              experiências autênticas e memoráveis pela Paraíba. Mesmo em
+              processo de certificação, ele já se destaca pelo cuidado com cada
+              visitante, pela paixão pela história, cultura e natureza
+              nordestina, e pela habilidade em transformar passeios em
+              descobertas inesquecíveis.
             </p>
 
             <p className="text-lg leading-relaxed text-muted-foreground text-pretty">
-              Com anos de experiência e centenas de turistas satisfeitos,
-              transformando cada passeio em uma jornada memorável, revelando os
-              segredos e belezas da nossa Paraíba.
+              Com vivência prática no atendimento a turistas e uma profunda
+              conexão com os destinos paraibanos, Victor Hugo personaliza cada
+              roteiro com sensibilidade e conhecimento local — revelando
+              segredos, curiosidades e os cenários mais encantadores da nossa
+              terra. Sua missão é simples e verdadeira: fazer você viver a
+              Paraíba com emoção, segurança e a originalidade de quem ama este
+              lugar.
             </p>
 
             {/* Stats */}
